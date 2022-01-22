@@ -11,3 +11,5 @@ The origin dataset : [download](https://pan.baidu.com/s/1zUvWmDlhh5vsGiv_0M8h9A)
 
 The cleaned dataset : [download](https://pan.baidu.com/s/1-mBqCdbz9waAovpx8kLS8g) (password:pdq9)
 
+The annotations of the cleaned dataset : [download](https://pan.baidu.com/s/1zagidZ-Rm1BOd7Q9zAAotA) (password:yssn)
+
